@@ -20,3 +20,4 @@ DIGIMED is a Python + MySQL-based hospital management system that allows patient
 - **Database**: MySQL
 - **Library**: `mysql-connector-python`
 - **Concepts**: SQL Integration, Command-line menus, Input validation
+
