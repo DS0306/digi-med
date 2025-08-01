@@ -14,7 +14,7 @@ DIGIMED is a Python + MySQL-based hospital management system that allows patient
 - View and update profile
 - Browse by department (Cardio, Dental, Neuro, etc.)
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Language**: Python 3
 - **Database**: MySQL
